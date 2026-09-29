@@ -25,3 +25,4 @@ print(f"B: {b}, G: {g}, R: {r}")
 # Accès à un pixel (100, 150) : --> Pour Jaguar
 #b, g, r, a = img_rgba[100, 150]
 #print(f"B: {b}, G: {g}, R: {r}, A: {a}")
+
